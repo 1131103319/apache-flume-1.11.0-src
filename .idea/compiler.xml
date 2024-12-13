@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="flume-hdfs-sink" />
+        <module name="flume-ng-environment-variable-config-filter" />
+        <module name="flume-spillable-memory-channel" />
+        <module name="flume-ng-external-process-config-filter" />
+        <module name="flume-ng-configuration" />
+        <module name="flume-shared-kafka" />
+        <module name="flume-spring-boot" />
+        <module name="flume-twitter-source" />
+        <module name="flume-avro-source" />
+        <module name="flume-ng-sdk" />
+        <module name="flume-ng-hbase2-sink" />
+        <module name="build-support" />
+        <module name="flume-irc-sink" />
+        <module name="flume-ng-kafka-sink" />
+        <module name="flume-ng-log4jappender" />
+        <module name="flume-shared-kafka-test" />
+        <module name="flume-kafka-source" />
+        <module name="flume-file-channel" />
+        <module name="flume-ng-hadoop-credential-store-config-filter" />
+        <module name="flume-jms-source" />
+        <module name="flume-ng-tests" />
+        <module name="flume-ng-auth" />
+        <module name="flume-ng-config-filter-api" />
+        <module name="flume-scribe-source" />
+        <module name="flume-tools" />
+        <module name="flume-http-sink" />
+        <module name="flume-ng-morphline-solr-sink" />
+        <module name="flume-ng-core" />
+        <module name="flume-ng-embedded-agent" />
+        <module name="flume-ng-node" />
+        <module name="flume-jdbc-channel" />
+        <module name="flume-ng-hbase-sink" />
+        <module name="flume-thrift-source" />
+        <module name="flume-taildir-source" />
+        <module name="flume-kafka-channel" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+</project>
